@@ -163,6 +163,8 @@ To address these issues, the following revised refund policy is recommended:
 ## CLARIFYING QUESTIONS, ASSUMPTIONS, AND CAVEATS
 
 **KEY QUESTIONS FOR STAKEHOLDERS PRIOR TO PROJECT ADVANCEMENT**
+- Which metrics are “nice-to-have” vs “must-have”?
+- Are there role-based views or sensitive data restrictions?
 
 **ASSUMPTIONS & CAVEATS**
-
+- Insights presented are descriptive and diagnostic, not predictive unless explicitly stated.
